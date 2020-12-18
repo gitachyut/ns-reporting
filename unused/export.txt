@@ -1,0 +1,1 @@
+curl -X PUT  -H "X-AUTH-TOKEN: 7e2d8c0eaccd1e81d8b1ee121ee3031ce9e83bf32897ae995c420d737e4024c0" https://exportcomments.com/api/v2/export\?url\=https%3A%2F%2Fwww.facebook.com%2FTheStraitsTimes%2Fposts%2F10157538020397115\&replies\=true\&nested\=true

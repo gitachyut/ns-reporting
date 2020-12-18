@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scrap Comment</title>
+    <style>
+        .container{
+            width: 100%;
+            margin-left: 20%;
+        }
+        .form-group{
+            display: flex;
+            flex-direction: column;
+            margin: 20px 0;
+        }
+        .form{
+            margin: 50px 100px;
+            width: 500px;
+        }
+        input{
+            height: 30px;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="display: block;">
+        <form id="form" class="form" >
+            <h4>Comment Scraper</h4>
+            <div class="form-group">
+                <label for="workSheetName">WorkSheet Name</label>
+                <input id="workSheetName"  type="text">
+            </div>
+
+            <div class="form-group">
+                <label for="sheetName">Sheet Name</label>
+                <input id="sheetName"  type="text">
+            </div>
+
+            <div class="form-group">
+                <label for="spreadsheetId">Sheet ID</label>
+                <input id="spreadsheetId"  type="text">
+            </div>
+
+            <div class="form-group">
+                <label for="url">Link</label>
+                <input id="url"  type="text">
+            </div>
+
+            <div class="form-group">
+                <input type="submit">
+            </div>
+
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    <script>
+
+        // var formData = new FormData();
+        // formData.append('username', 'abc123');
+        // formData.append('avatar', fileField.files[0]);
+
+        // fetch('http://localhost:9009/comment-scrap', {
+        //     method: 'POST',
+        //     body: formData
+        // })
+        // .then(response => response.json())
+        // .catch(error => console.error('Error:', error))
+        // .then(response => console.log('Success:', JSON.stringify(response)))
+
+
+        var url = 'http://localhost:9009/comment-scrap';
+        var data = {username: 'example'};
+        fetch(url, {
+        method: 'POST', // or 'PUT'
+        body: JSON.stringify(data), // data can be `string` or {object}!
+        headers:{
+            'Content-Type': 'application/json'
+        }
+        }).then(res => res.json())
+        .then(response => console.log('Success:', JSON.stringify(response)))
+        .catch(error => console.error('Error:', error));
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,152 @@
+OR ->(
+    Lee Kuan Yew Fund for Bilingualism
+    National Translation Committee
+    Mother Tongue Fortnight
+    Bilingual
+    Language learning
+    Language teaching
+    Language policy
+    Translation policy
+    Mother Tongue Language Symposium
+    Singapore International Translation Symposium
+    李光耀双语基金
+    国家翻译委员会
+    母语双周
+    双语
+    语言学习
+    语言教学
+    语言政策
+    翻译
+    母语学习论坛
+    新加坡国际翻译研讨会
+    Dana Kedwibahasaan Lee Kuan Yew
+    Jawatankuasa Terjemahan Negara
+    Bahasa Ibunda dua minggu
+    Dwibahasa
+    Kedwibahasaan
+    Pembelajaran
+    Pengajaran Bahasa
+    Dasar Bahasa
+    Dasar Dwibahasa
+    Simposium Bahasa Ibunda
+    Antarabangsa Singapura Terjemahan Simposium
+    லீ குவான் யூவின் இருமொழி கல்வி நிதி
+    தேசிய மொழிபெயர்ப்புக்குழு
+    இருவாரங்களுக்கு தாய்மொழி விழா
+    இருமொழி
+    இருமொழி பேசும் நிலை
+    மொழி கற்றல்
+    கற்பித்தல்
+    மொழி கொள்கை
+    மொழிபெயர்ப்பு கொள்கை
+    தாய்மொழி கருத்தரங்கு
+    சிங்கப்பூர் அனைத்துலக மொழிபெயர்ப்பு கருத்தரங்கு
+
+    OR -> (
+
+        Chua Chim Kang,
+        蔡深江,
+        Chew Lee Ching,
+        周丽青,
+        Adrian Peh,
+        白南泉,
+        Andy Hoon,
+        洪启强,
+        Heng Boey Hong,
+        王梅凤,
+        Kai Ying,
+        恺缨,
+        Lan Luh Luh,
+        蓝璐璐,
+        Lee Ee Wurn,
+        李仪文,
+        Lee Kuan Fung,
+        李冠芳,
+        Lee Siew Li,
+        李秀丽,
+        Liang Wern Fook,
+        梁文福,
+        Loh Gek Khim,
+        刘玉琴,
+        Ng Keng Song,
+        黄庆松,
+        Tan Chee Lay,
+        陈志锐,
+        Tang Tung San,
+        邓冬姗,
+        Wan Shung Ming,
+        尹崇明,
+        Xiaohan,
+        小寒,
+        Yang Ji Wei,
+        杨纪伟,
+    )
+
+    OR->(
+        national language,
+        dialect,
+        hindi,
+        hokkien,
+        teochew,
+        cantonese,
+        singlish,
+        english,
+        Chinese language,
+        speak Chinese,
+        spoke Chinese,
+        speak mandarin,
+        spoke Mandarin,
+        speak english,
+        spoke malay,
+        speak tamil,
+        spoke tamil,
+        English language,
+        Tamil language,
+        melayu language,
+        Malay language,
+        Mother Tongue,
+        second language,
+        2nd language,
+        two language,
+        four languages,
+        main language,
+        4 languages,
+        4th language,
+        fourth language,
+        translat,
+        third language,
+        speak language,
+        language proficiency,
+        written language,
+        spoken language,
+        multilingual,
+        non-English-speaking,
+        writers association,
+        songwriting competition,
+        song writing competition,
+        national chinese challenge,
+        family talent competition
+    ),
+
+    OR => (
+        Grammar
+        Singlish
+        English Language Institute Singapore
+        English Language and Literature Branch
+        Curriculum Planning and Development Division
+        Ministry of Education
+        National Library Board
+        Singapore Writers Festival
+        READ Singapore
+        National Reading Movement
+        Civil Service College
+        Sing Lit Station
+        The Select Centre
+        National Book Development Council of Singapore
+        Book Council
+        National Story Challenge
+        Plain English Speaking Awards
+        Babble and Speak
+        Kid Lit SEA
+    )
+)
